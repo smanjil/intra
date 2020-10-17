@@ -1,0 +1,7 @@
+aiohttp
+elastic-apm
+elasticsearch[async]
+fastapi
+pytest
+requests
+uvicorn
